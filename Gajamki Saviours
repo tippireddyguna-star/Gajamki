@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gajamki Village</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #f4f4f4;
+      text-align: center;
+    }
+    header {
+      background: #2e7d32;
+      color: white;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      margin: 15px;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    footer {
+      background: #333;
+      color: white;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌱 Gajamki Village</h1>
+  <p>Saving Water | Saving Plants | Building a Greener Future</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>About</h2>
+    <p>Gajamki Village is an initiative to promote water conservation and greenery.</p>
+  </div>
+
+  <div class="card">
+    <h2>Our Mission</h2>
+    <p>To save water, plant trees, and inspire change in rural communities.</p>
+  </div>
+
+  <div class="card">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Gajamki Village</p>
+</footer>
+
+</body>
+</html>
